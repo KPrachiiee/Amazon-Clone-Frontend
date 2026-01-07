@@ -4,7 +4,7 @@ This is a simple **Amazon-inspired frontend clone** built using **HTML and CSS**
 The project is created only for learning and practice purposes.
 
 ## 🚀 Live Demo
-(If hosted on GitHub Pages, paste your link here)
+https://amazon-ui-frontend.vercel.app/
 
 ## ✨ Features
 - Amazon-style navbar and layout
